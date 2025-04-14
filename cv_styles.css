@@ -1,0 +1,60 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    display: flex;
+    max-width: 1000px;
+    margin: 20px auto;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.sidebar {
+    width: 30%;
+    background: #ded3be;
+    padding: 20px;
+    text-align: center;
+}
+.profile-img {
+    width: 300px;
+    border-radius: 50%;
+}
+h2 {
+    color: #5a4a42;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    margin: 10px 0;
+    color: #333;
+}
+.main-content {
+    width: 70%;
+    padding: 20px;
+    
+    text-align: center;
+}
+h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+    color: #3e3d3d;
+}
+h1 span {
+    color: #a38b68;
+}
+h3 {
+    color: #5a4a42;
+    font-weight: normal;
+}
+p {
+    color: #555;
+    line-height: 1.6;
+}
+ul li span{
+    color :#75603b;
+}
